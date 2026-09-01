@@ -1,0 +1,12 @@
+{
+  "name": "ccdojo",
+  "description": "ccdojo が配るスキルと役割。team-builder と、読むだけの役割4つ",
+  "version": "0.1.0",
+  "author": {
+    "name": "flyflat",
+    "url": "https://ccdojo.com"
+  },
+  "homepage": "https://ccdojo.com/docs/install-a-skill",
+  "repository": "https://github.com/kyo-chan/ccdojo-skills",
+  "license": "MIT"
+}

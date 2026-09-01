@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/main/schemas/marketplace.json",
+  "name": "ccdojo-skills",
+  "description": "ccdojo（Claude Code 学習ポータル）が読者に配るスキルと役割",
+  "owner": {
+    "name": "flyflat",
+    "url": "https://ccdojo.com"
+  },
+  "plugins": [
+    {
+      "name": "ccdojo",
+      "description": "team-builder（役割を選んで、同じ資料を同時に見てもらう）と、非エンジニア向けの役割4つ（校閲・初見の読み手・慎重・決裁者）",
+      "version": "0.1.0",
+      "source": "./plugins/ccdojo",
+      "author": {
+        "name": "flyflat",
+        "url": "https://ccdojo.com"
+      },
+      "homepage": "https://ccdojo.com/docs/install-a-skill",
+      "category": "productivity"
+    }
+  ]
+}
