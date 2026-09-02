@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "ccdojo",
-      "description": "team-builder（役割を選んで、同じ資料を同時に見てもらう）と、非エンジニア向けの役割4つ（校閲・初見の読み手・慎重・決裁者）",
-      "version": "0.1.0",
+      "description": "team-setup（業務に合わせてチームを設計・生成する）、team-builder（あるチームを呼んで同じ資料を見てもらう）、非エンジニア向けの役割4つ（校閲・初見の読み手・慎重・決裁者）",
+      "version": "0.2.0",
       "source": "./plugins/ccdojo",
       "author": {
         "name": "flyflat",

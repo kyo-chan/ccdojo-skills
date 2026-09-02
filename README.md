@@ -19,7 +19,8 @@ Claude Code の中で、2行打ちます。
 
 | 種類 | 名前 | 何をするか |
 |---|---|---|
-| スキル | `/ccdojo:team-builder` | 役割を選んで、同じ資料を同時に見てもらい、結果をまとめる |
+| スキル | `/ccdojo:team-setup` | 業務を聞き取って、Claude Code 上にチーム一式を作る（部門ごとのフォルダと CLAUDE.md まで） |
+| スキル | `/ccdojo:team-builder` | あるチームを呼んで、同じ資料を同時に見てもらい、結果をまとめる |
 | 役割 | `ccdojo:proofreader`（校閲役） | 誤字脱字・表記ゆれ・数字の食い違い |
 | 役割 | `ccdojo:first-reader`（初見の読み手役） | 前提なしで読んで、分からないところ |
 | 役割 | `ccdojo:risk-checker`（慎重役） | 言い切り・約束・個人情報の危うさ |

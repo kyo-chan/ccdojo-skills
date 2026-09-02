@@ -1,7 +1,7 @@
 {
   "name": "ccdojo",
-  "description": "ccdojo が配るスキルと役割。team-builder と、読むだけの役割4つ",
-  "version": "0.1.0",
+  "description": "ccdojo が配るスキルと役割。チームを作る team-setup、チームを呼ぶ team-builder、読むだけの役割4つ",
+  "version": "0.2.0",
   "author": {
     "name": "flyflat",
     "url": "https://ccdojo.com"
