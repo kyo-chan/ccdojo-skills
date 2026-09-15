@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "ccdojo",
-      "description": "team-setup（業務に合わせてチームを設計・生成する）、team-builder（あるチームを呼んで同じ資料を見てもらう）、非エンジニア向けの役割4つ（校閲・初見の読み手・慎重・決裁者）",
-      "version": "0.2.0",
+      "description": "team-setup（業務に合わせてチームを設計・生成する）、team-builder（あるチームを呼んで同じ資料を見てもらう）、writing / writing-review（日本語の検品基準と検品スキル）、image-to-html / html-to-illustrator（ポスターやチラシの画像→HTML→.ai 変換）、非エンジニア向けの役割4つ（校閲・初見の読み手・慎重・決裁者）",
+      "version": "0.3.0",
       "source": "./plugins/ccdojo",
       "author": {
         "name": "flyflat",
